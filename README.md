@@ -1,6 +1,6 @@
 # login_page_ui_animation
 
-A new Flutter application.
+This is repo contains login screen UI with animation build using flutter.
 
 ## Getting Started
 
